@@ -1,5 +1,6 @@
 # HBGesture
-Honours Project using Happy Brackets on Gesture Recognition
+Honours Project on Device Gesture Recognition using Happy Brackets 
 
 Made for use with IntelliJ, HappyBrackets Plugin and HappyBrackets Linux Image Device
-https://github.com/orsjb/HappyBrackets
+
+check https://github.com/orsjb/HappyBrackets for more information
